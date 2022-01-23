@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ridwan-H-0
 - 👀 I’m interested in web development and cyber security
-- 🌱 I’m currently learning javascrit
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
