@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ridwan-H-0
-- 👀 I’m interested in web development and cyber security
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in Data Analysis and Python development 
+- 🌱 I’m currently trying to improve my skills in Machine learning
+- 💞️ I’m looking to collaborate on Data Analysis projects especially in Business, Health and Cyber Security niche
 - 📫 How to reach me ...
 
 <!---
